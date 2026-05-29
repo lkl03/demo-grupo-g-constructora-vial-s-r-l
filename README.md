@@ -1,2 +1,7 @@
-# demo-grupo-g-constructora-vial-s-r-l
-Demo web para Grupo G Constructora Vial S.R.L. — diseñada por eterlab.
+# Grupo G Constructora Vial S.R.L.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
